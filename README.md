@@ -1,7 +1,6 @@
 #  Análise de Dados — Franquia Batman Arkham
 
 
-
 ##  Objetivos
 - Comparar as avaliações de críticos e usuários.
 - Analisar a duração dos jogos.
