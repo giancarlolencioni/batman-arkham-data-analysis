@@ -24,7 +24,7 @@ Este projeto realiza uma Análise Exploratória de Dados (EDA) e consolida um Da
 ---
 
 ##  Dashboard
-<img width="935" height="430" alt="Captura de tela 2026-10-13 064338" src="https://github.com/user-attachments/assets/316f9810-12d5-4547-9ad7-985052ac65f7" />
+<img width="1247" height="623" alt="Captura de tela 2026-10-13 073457" src="https://github.com/user-attachments/assets/374b2417-b1c9-4b59-8356-58ab47cdb031" />
 
 ---
 
